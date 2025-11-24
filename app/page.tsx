@@ -171,7 +171,7 @@ export default function Page() {
                 className="border-slate-700 bg-slate-900/70 text-slate-100 hover:bg-slate-800"
               >
                 <a
-                  href="https://www.linkedin.com/in/bagus-dai-putranto"
+                  href="https://www.linkedin.com/in/bagus-dai-putranto-020b0624a"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -320,7 +320,7 @@ export default function Page() {
             {/* Education mini card */}
             <Card className="border-slate-800 bg-slate-900/85">
               <CardHeader>
-                <CardTitle className="text-sm">Education</CardTitle>
+                <CardTitle className="text-sm text-cyan-400">Education</CardTitle>
                 <CardDescription className="text-xs">
                   A mix of automation engineering and computer networking.
                 </CardDescription>
@@ -359,7 +359,7 @@ export default function Page() {
             {/* Technical */}
             <Card className="border-slate-800 bg-slate-900/85">
               <CardHeader>
-                <CardTitle className="text-sm">Technical Stack</CardTitle>
+                <CardTitle className="text-sm text-cyan-400">Technical Stack</CardTitle>
                 <CardDescription className="text-xs">
                   Tools I&apos;m comfortable owning in production.
                 </CardDescription>
